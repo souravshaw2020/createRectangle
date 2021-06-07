@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+}
+
+h1 {
+    margin: 0;
+    padding: 5px;
+    text-align: center;
+    color: red;
+}
+
+canvas {
+    position: absolute;
+    background: whitesmoke;
+    padding: 0;
+    margin: 20px 0 10px 180px;
+    display: inline;
+    border: 2px solid black;
+    cursor: crosshair;
+}
+
+.clearCanvas {
+    position: absolute;
+    margin-top: 650px;
+    margin-left: 1330px;
+    padding: 5px;
+    background-color: #0084ff;
+    color: white;
+    cursor: pointer;
+}
